@@ -25,7 +25,7 @@ Make sure the following tools are installed and available on your `PATH` before 
 
 1. **Fork** the repository and clone your fork:
    ```bash
-   git clone https://github.com/<your-username>/hackathon-tools.git
+   git clone https://github.com/oyamanao/hackathon-tools.git
    cd hackathon-tools
    ```
 
